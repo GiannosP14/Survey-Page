@@ -1,1 +1,1 @@
-# My Survey-Page for my Free Code Camp Legacy Responsive Web Design Certification
+# My Survey-Page for my freeCodeCamp Legacy Responsive Web Design Certification
